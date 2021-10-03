@@ -27,5 +27,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://oval-anemone-920f0.netlify.app"
 }
